@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{F0BAD3E1-430A-CC74-9BBC-C6B0EA4CD75F}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "FPSCpp",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
